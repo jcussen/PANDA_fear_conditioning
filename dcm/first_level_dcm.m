@@ -1,5 +1,5 @@
-function first_level_dcm_fear1_all(subject_id, version)
-% FIRST_LEVEL_DCM_FEAR1_ALL
+function first_level_dcm(subject_id, version)
+% FIRST_LEVEL_DCM
 %
 % Single-subject, single-session first-level GLM for the fear task
 % (task 1) preprocessed with fMRIPrep and analysed in SPM25.

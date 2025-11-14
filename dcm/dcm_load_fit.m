@@ -1,5 +1,5 @@
-function dcm_load_fit_fear1(version, spec)
-% DCM_LOAD_FIT_FEAR1
+function dcm_load_fit(version, spec)
+% DCM_LOAD_FIT
 %
 % Loads and fits subject-level DCMs for the fear task (task 1) using
 % Parametric Empirical Bayes (PEB) in SPM25.

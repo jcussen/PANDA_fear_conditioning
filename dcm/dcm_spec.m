@@ -1,5 +1,5 @@
-function dcm_spec_fear1_all(subject_id, version, spec)
-% DCM_SPEC_FEAR1_ALL
+function dcm_spec(subject_id, version, spec)
+% DCM_SPEC
 %
 % Specifies a bilinear task-driven DCM for the fear task (task 1) in SPM25.
 % The model includes three regions (hippocampus, posterior vmPFC, amygdala),

@@ -1,5 +1,5 @@
-function extract_vois_fear1(subject_id, version)
-% EXTRACT_VOIS_FEAR1
+function extract_vois(subject_id, version)
+% EXTRACT_VOIS
 %
 % Extracts subject-specific VOIs for a single contrast (e.g. task > baseline)
 % for the fear task (task 1), using SPM25. VOIs are defined as the
